@@ -1,0 +1,2 @@
+best_model.pth filter=lfs diff=lfs merge=lfs -text
+data/best_model.pth filter=lfs diff=lfs merge=lfs -text

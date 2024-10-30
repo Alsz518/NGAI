@@ -1,0 +1,4 @@
+OPENAI_API_TYPE : "azure"
+OPENAI_API_VERSION : "2023-05-15"
+OPENAI_API_BASE : "https://test-trans-app.openai.azure.com/"
+OPENAI_API_KEY : "dae4a72a78c341178191bd6f8deb330b"
